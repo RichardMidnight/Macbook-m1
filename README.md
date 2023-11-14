@@ -29,6 +29,8 @@ To run Debian on M1 Mac with UTM
 
     Once it boots up:
     Terminal, SU, password, sudo adduser USER sudo,  then reboot
+
+    For a more Windows-like experience, run "global theme", Get new Global Themes, Search for Windows ....
     
 
     
@@ -36,9 +38,11 @@ To run Windows on M1 Mac with UTM
 
       Install Crystalfetch from App store
 
-      Run Crystalfetch to Download an Apple Silicon version of Windows 10 or Windows 11 to Downloads Folder
+      Run Crystalfetch and Download Windows 10 or Windows 11 for Apple Silicon to your Downloads Folder
 
       Start UTM, New, Virtulize, Windows, ...
+
+      You will need to buy and apply a Windows license.
       
       
 
