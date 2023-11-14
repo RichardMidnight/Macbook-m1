@@ -24,6 +24,13 @@ To run Debian on M1 Mac with UTM
     Start up the UTM virtual machine.  It should boot the the downloaded CD image.  Select Grapical install.
     The defaults are pretty good.  Probably limit the cores to 2-4.  Can reduce the HDD to 32GB.
     Recomend the KDE Plasma Desktop Environment, but you can play with the others.
+    When it is complete and asking to reboot, FIRST select the "Drive Image Options" in the upper right corner, and Eject the Debian image so it boots from HDD.
+    Then Continue to reboot.
+
+    Once it boots up:
+    Terminal, SU, password, sudo adduser USER sudo,  then reboot
+    
+
     
 To run Windows on M1 Mac with UTM
 
