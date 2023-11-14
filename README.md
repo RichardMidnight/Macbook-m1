@@ -13,7 +13,7 @@ To install UTM
 
       Go to the Mac App Store and search for "UTM Virtual Machines" and install it.
 
-To run Debian on UTM
+To run Debian on M1 Mac with UTM
 
     Download Debian from here:  https://www.debian.org/distrib/netinst 
     Save the Small CD / ARM64 file to Downloads folder: https://deb.debian.org/debian/dists/bookworm/main/installer-arm64/current/images/ 
@@ -22,6 +22,16 @@ To run Debian on UTM
     The defaults are pretty good, but you can adjust as desired.
 
     Start up the UTM virtual machine.  It should boot the the downloaded CD image.  Select Grapical install.
-    The defaults are pretty good.
+    The defaults are pretty good.  Probably limit the cores to 2-4.  Can reduce the HDD to 32GB.
     Recomend the KDE Plasma Desktop Environment, but you can play with the others.
     
+To run Windows on M1 Mac with UTM
+
+      Install Crystalfetch from App store
+
+      Run Crystalfetch to Download an Apple Silicon version of Windows 10 or Windows 11 to Downloads Folder
+
+      Start UTM, New, Virtulize, Windows, ...
+      
+      
+
