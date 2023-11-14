@@ -38,9 +38,10 @@ To run Windows on M1 Mac with UTM
 
       Install Crystalfetch from App store
 
-      Run Crystalfetch and Download Windows 10 or Windows 11 for Apple Silicon to your Downloads Folder
+      Run Crystalfetch and Download Windows 11 for Apple Silicon to your Downloads Folder.  Win 10 may not work.
 
       Start UTM, New, Virtulize, Windows, ...
+      You neet to select EUFI and TPM-2
 
       You will need to buy and apply a Windows license.
       
