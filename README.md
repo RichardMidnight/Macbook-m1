@@ -21,5 +21,6 @@ To run Debian on UTM
     The defaults are pretty good, but you can adjust as desired.
 
     Start it up, and it should boot the the downloaded CD image.  Select Grapical install.
-    
+    The defaults are pretty good.
+    Recomend the KDE Plasma Desktop Environment, but you can play with the others.
     
